@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.4a4e9cb0ea7fdfc944ad973a6c849f1c.js"
+  "precache-manifest.2b9bc6d564b9366f2835e1748b0a2eab.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "reciclaje"});
